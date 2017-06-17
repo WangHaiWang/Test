@@ -35,6 +35,12 @@ public class MainActivity extends FragmentActivity {
         FragmentTransaction ft = fm.beginTransaction();
         ft.replace(R.id.fl, new HomeFragment());
         ft.commit();
+
+
+
+
+
+
 //        new Handler().postDelayed()
         Student s = new Student();
 
