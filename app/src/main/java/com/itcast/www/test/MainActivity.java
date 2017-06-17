@@ -36,7 +36,7 @@ public class MainActivity extends FragmentActivity {
         ft.replace(R.id.fl, new HomeFragment());
         ft.commit();
 
-        int t =2;
+        int t =22;
 
 
 
